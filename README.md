@@ -6,7 +6,7 @@
 <!-- Introduction -->
 <h3>Full Stack Web Developer || B.Sc. in Information Systems @ São Paulo State University (UNESP)</h3>
 
-As a passionate Web Developer, I thrive on creating dynamic, user-centric web applications. With a strong foundation in both front-end and back-end technologies, I enjoy tackling challenges and transforming ideas into functional solutions. 
+I code stuff :)
 
 ---
 
