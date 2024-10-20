@@ -20,5 +20,3 @@ As a passionate Web Developer, I thrive on creating dynamic, user-centric web ap
 - **Familiar:**
   <span><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET logo" title=".NET" height="30" align="center"/></span>
   <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="30" align="center"/></span>
-
----
