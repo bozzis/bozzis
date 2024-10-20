@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-giovanni.bns@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:giovanni.bns@gmail.com)
 
 <!-- Introduction -->
-<h3>Full Stack Web Developer || B.Sc. in Information Systems @ São Paulo State University (UNESP)</h3>
+<h3>Full Stack Web Developer || B.Sc. Information Systems @ São Paulo State University (UNESP)</h3>
 
 I code stuff :)
 
