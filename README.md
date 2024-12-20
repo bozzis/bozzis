@@ -1,5 +1,5 @@
 <!-- Greeting -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&duration=3000&pause=1000&color=1AD5F7&repeat=false&width=600&height=45&lines=Greetings%2C+I'm+Giovanni+Bozzini!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&duration=3000&pause=1000&color=1AD5F7&repeat=false&width=600&height=45&lines=Hello%2C+I'm+Giovanni+Bozzini!)](https://git.io/typing-svg)
 
 ---
 
