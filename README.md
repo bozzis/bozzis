@@ -6,8 +6,6 @@
 <!-- Introduction -->
 <h3>Full Stack Web Developer || B.Sc. Information Systems @ São Paulo State University (UNESP)</h3>
 
-I code stuff :)
-
 ---
 
 ### Skills
